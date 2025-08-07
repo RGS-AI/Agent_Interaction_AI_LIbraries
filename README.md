@@ -42,22 +42,22 @@ cd ai-agent-app
 
 ## Pull and run Mistral Model with Ollama
 
-ollama pull mistral
-ollama run mistral
+- ollama pull mistral
+- ollama run mistral
 
 ## Run the app
-streamlit run app.py
+- streamlit run app.py
 
-Logging
+### Logging
 
-Logs are stored in agent_logs.db and can be viewed inside the app.
+- Logs are stored in agent_logs.db and can be viewed inside the app.
 
 ---
 
 ## Model Used
-LLM: Mistral via Ollama
-Agent Framework: LangChain
-Interface: Streamlit
+1. LLM: Mistral via Ollama
+2. Agent Framework: LangChain
+3. Interface: Streamlit
 
 ---
 
