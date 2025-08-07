@@ -37,7 +37,7 @@ A lightweight desktop AI agent powered by LangChain, Streamlit, and local LLMs (
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/ai-agent-app.git
+git clone [https://github.com/yourusername/ai-agent-app.git](https://github.com/RGS-AI/Agent_Interaction_AI_LIbraries.git)
 cd ai-agent-app
 
 ## Pull and run Mistral Model with Ollama
