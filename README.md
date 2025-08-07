@@ -63,7 +63,9 @@ A lightweight desktop AI agent powered by LangChain, Streamlit, and local LLMs (
 
 ## Sample Screenshot
 
-(https://github.com/RGS-AI/Agent_Interaction_AI_LIbraries/blob/main/ss/1.png)
+![ScreenShot](https://github.com/RGS-AI/Agent_Interaction_AI_LIbraries/ss/1.png)
+
+![ScreenShot](https://github.com/RGS-AI/Agent_Interaction_AI_LIbraries/ss/2.png)
 
 ---
 
