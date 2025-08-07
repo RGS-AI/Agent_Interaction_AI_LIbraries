@@ -55,9 +55,9 @@ Logs are stored in agent_logs.db and can be viewed inside the app.
 ---
 
 ## Model Used
-	•	LLM: Mistral via Ollama
-	•	Agent Framework: LangChain
-	•	Interface: Streamlit
+LLM: Mistral via Ollama
+Agent Framework: LangChain
+Interface: Streamlit
 
 ---
 
@@ -74,4 +74,4 @@ MIT License
 ---
 
 ## Credits
-	•	Built by Raghunandan M S
+Built by Raghunandan M S
