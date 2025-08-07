@@ -43,11 +43,11 @@ cd ai-agent-app
 
 ## Pull and run Mistral Model with Ollama
 
-```ollama pull mistral```
-```ollama run mistral```
+```ollama pull mistral
+```ollama run mistral
 
 ## Run the app
-```streamlit run app.py```
+```streamlit run app.py
 
 Logging
 
